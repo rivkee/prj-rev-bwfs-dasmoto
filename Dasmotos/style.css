@@ -1,0 +1,17 @@
+html {font-family: Helvetica;}
+h1 {color: khaki; font-size: 100px; text-align: center; font-weight: bold; background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");}
+h2 {font-size: 32px; font-weight: bold; color: white;}
+
+#brushes {background-color: mediumspringgreen;}
+#frames {background-color: lightcoral;}
+#paint {background-color: skyblue;}
+
+/*I wanted to use a class called, 'price' for the phrases in blue, and then apply CSS rules to price.
+I couldn't figure out how to make the phrase stay on the same line as the rest of the sentence, as in the spec sheet.
+But it seems like it would be a better, more generalized way of doing things, since it could be used for other products.
+Can whoever's reading this suggest how to go about doing it that way? Thanks.*/
+
+/*Also, why doesn't 'bold' work?*/
+
+/*Finally, I'd like to utilize the 'Resources' folder, but I couldn't figure out how to store the links to the images,
+rather than the images, themselves, or the spec sheet*/
